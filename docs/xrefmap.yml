@@ -1,0 +1,251 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: OpenCollar.Extensions.IO
+  name: OpenCollar.Extensions.IO
+  href: api/OpenCollar.Extensions.IO.html
+  commentId: N:OpenCollar.Extensions.IO
+  fullName: OpenCollar.Extensions.IO
+  nameWithType: OpenCollar.Extensions.IO
+- uid: OpenCollar.Extensions.IO.BlobKey
+  name: BlobKey
+  href: api/OpenCollar.Extensions.IO.BlobKey.html
+  commentId: T:OpenCollar.Extensions.IO.BlobKey
+  fullName: OpenCollar.Extensions.IO.BlobKey
+  nameWithType: BlobKey
+- uid: OpenCollar.Extensions.IO.BlobKey.#ctor(System.Byte[])
+  name: BlobKey(Byte[])
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey__ctor_System_Byte___
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.#ctor(System.Byte[])
+  name.vb: BlobKey(Byte())
+  fullName: OpenCollar.Extensions.IO.BlobKey.BlobKey(System.Byte[])
+  fullName.vb: OpenCollar.Extensions.IO.BlobKey.BlobKey(System.Byte())
+  nameWithType: BlobKey.BlobKey(Byte[])
+  nameWithType.vb: BlobKey.BlobKey(Byte())
+- uid: OpenCollar.Extensions.IO.BlobKey.#ctor(System.IO.Stream)
+  name: BlobKey(Stream)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey__ctor_System_IO_Stream_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.#ctor(System.IO.Stream)
+  fullName: OpenCollar.Extensions.IO.BlobKey.BlobKey(System.IO.Stream)
+  nameWithType: BlobKey.BlobKey(Stream)
+- uid: OpenCollar.Extensions.IO.BlobKey.#ctor*
+  name: BlobKey
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey__ctor_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.#ctor
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.BlobKey
+  nameWithType: BlobKey.BlobKey
+- uid: OpenCollar.Extensions.IO.BlobKey.CompareTo(OpenCollar.Extensions.IO.BlobKey)
+  name: CompareTo(BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_CompareTo_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.CompareTo(OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.CompareTo(OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.CompareTo(BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_CompareTo_System_Object_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.CompareTo(System.Object)
+  fullName: OpenCollar.Extensions.IO.BlobKey.CompareTo(System.Object)
+  nameWithType: BlobKey.CompareTo(Object)
+- uid: OpenCollar.Extensions.IO.BlobKey.CompareTo*
+  name: CompareTo
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_CompareTo_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.CompareTo
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.CompareTo
+  nameWithType: BlobKey.CompareTo
+- uid: OpenCollar.Extensions.IO.BlobKey.Equals(OpenCollar.Extensions.IO.BlobKey)
+  name: Equals(BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_Equals_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.Equals(OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.Equals(OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.Equals(BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.Equals(System.Object)
+  name: Equals(Object)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_Equals_System_Object_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.Equals(System.Object)
+  fullName: OpenCollar.Extensions.IO.BlobKey.Equals(System.Object)
+  nameWithType: BlobKey.Equals(Object)
+- uid: OpenCollar.Extensions.IO.BlobKey.Equals*
+  name: Equals
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_Equals_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.Equals
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.Equals
+  nameWithType: BlobKey.Equals
+- uid: OpenCollar.Extensions.IO.BlobKey.GetHashCode
+  name: GetHashCode()
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_GetHashCode
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.GetHashCode
+  fullName: OpenCollar.Extensions.IO.BlobKey.GetHashCode()
+  nameWithType: BlobKey.GetHashCode()
+- uid: OpenCollar.Extensions.IO.BlobKey.GetHashCode*
+  name: GetHashCode
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_GetHashCode_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.GetHashCode
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.GetHashCode
+  nameWithType: BlobKey.GetHashCode
+- uid: OpenCollar.Extensions.IO.BlobKey.op_Equality(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: Equality(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_Equality_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_Equality(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.Equality(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.Equality(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_Equality*
+  name: Equality
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_Equality_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_Equality
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.Equality
+  nameWithType: BlobKey.Equality
+- uid: OpenCollar.Extensions.IO.BlobKey.op_GreaterThan(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: GreaterThan(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_GreaterThan_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_GreaterThan(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.GreaterThan(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.GreaterThan(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_GreaterThan*
+  name: GreaterThan
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_GreaterThan_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_GreaterThan
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.GreaterThan
+  nameWithType: BlobKey.GreaterThan
+- uid: OpenCollar.Extensions.IO.BlobKey.op_GreaterThanOrEqual(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: GreaterThanOrEqual(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_GreaterThanOrEqual_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_GreaterThanOrEqual(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.GreaterThanOrEqual(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.GreaterThanOrEqual(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_GreaterThanOrEqual_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.GreaterThanOrEqual
+  nameWithType: BlobKey.GreaterThanOrEqual
+- uid: OpenCollar.Extensions.IO.BlobKey.op_Inequality(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: Inequality(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_Inequality_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_Inequality(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.Inequality(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.Inequality(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_Inequality*
+  name: Inequality
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_Inequality_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_Inequality
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.Inequality
+  nameWithType: BlobKey.Inequality
+- uid: OpenCollar.Extensions.IO.BlobKey.op_LessThan(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: LessThan(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_LessThan_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_LessThan(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.LessThan(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.LessThan(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_LessThan*
+  name: LessThan
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_LessThan_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_LessThan
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.LessThan
+  nameWithType: BlobKey.LessThan
+- uid: OpenCollar.Extensions.IO.BlobKey.op_LessThanOrEqual(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  name: LessThanOrEqual(BlobKey, BlobKey)
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_LessThanOrEqual_OpenCollar_Extensions_IO_BlobKey_OpenCollar_Extensions_IO_BlobKey_
+  commentId: M:OpenCollar.Extensions.IO.BlobKey.op_LessThanOrEqual(OpenCollar.Extensions.IO.BlobKey,OpenCollar.Extensions.IO.BlobKey)
+  fullName: OpenCollar.Extensions.IO.BlobKey.LessThanOrEqual(OpenCollar.Extensions.IO.BlobKey, OpenCollar.Extensions.IO.BlobKey)
+  nameWithType: BlobKey.LessThanOrEqual(BlobKey, BlobKey)
+- uid: OpenCollar.Extensions.IO.BlobKey.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/OpenCollar.Extensions.IO.BlobKey.html#OpenCollar_Extensions_IO_BlobKey_op_LessThanOrEqual_
+  commentId: Overload:OpenCollar.Extensions.IO.BlobKey.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.BlobKey.LessThanOrEqual
+  nameWithType: BlobKey.LessThanOrEqual
+- uid: OpenCollar.Extensions.IO.CompressionExtensions
+  name: CompressionExtensions
+  href: api/OpenCollar.Extensions.IO.CompressionExtensions.html
+  commentId: T:OpenCollar.Extensions.IO.CompressionExtensions
+  fullName: OpenCollar.Extensions.IO.CompressionExtensions
+  nameWithType: CompressionExtensions
+- uid: OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed(System.Byte[])
+  name: GetCompressed(Byte[])
+  href: api/OpenCollar.Extensions.IO.CompressionExtensions.html#OpenCollar_Extensions_IO_CompressionExtensions_GetCompressed_System_Byte___
+  commentId: M:OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed(System.Byte[])
+  name.vb: GetCompressed(Byte())
+  fullName: OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed(System.Byte[])
+  fullName.vb: OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed(System.Byte())
+  nameWithType: CompressionExtensions.GetCompressed(Byte[])
+  nameWithType.vb: CompressionExtensions.GetCompressed(Byte())
+- uid: OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed*
+  name: GetCompressed
+  href: api/OpenCollar.Extensions.IO.CompressionExtensions.html#OpenCollar_Extensions_IO_CompressionExtensions_GetCompressed_
+  commentId: Overload:OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.CompressionExtensions.GetCompressed
+  nameWithType: CompressionExtensions.GetCompressed
+- uid: OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed(System.Byte[])
+  name: GetDecompressed(Byte[])
+  href: api/OpenCollar.Extensions.IO.CompressionExtensions.html#OpenCollar_Extensions_IO_CompressionExtensions_GetDecompressed_System_Byte___
+  commentId: M:OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed(System.Byte[])
+  name.vb: GetDecompressed(Byte())
+  fullName: OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed(System.Byte[])
+  fullName.vb: OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed(System.Byte())
+  nameWithType: CompressionExtensions.GetDecompressed(Byte[])
+  nameWithType.vb: CompressionExtensions.GetDecompressed(Byte())
+- uid: OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed*
+  name: GetDecompressed
+  href: api/OpenCollar.Extensions.IO.CompressionExtensions.html#OpenCollar_Extensions_IO_CompressionExtensions_GetDecompressed_
+  commentId: Overload:OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.CompressionExtensions.GetDecompressed
+  nameWithType: CompressionExtensions.GetDecompressed
+- uid: OpenCollar.Extensions.IO.Crc32
+  name: Crc32
+  href: api/OpenCollar.Extensions.IO.Crc32.html
+  commentId: T:OpenCollar.Extensions.IO.Crc32
+  fullName: OpenCollar.Extensions.IO.Crc32
+  nameWithType: Crc32
+- uid: OpenCollar.Extensions.IO.Crc32.GetCrc(System.Byte[])
+  name: GetCrc(Byte[])
+  href: api/OpenCollar.Extensions.IO.Crc32.html#OpenCollar_Extensions_IO_Crc32_GetCrc_System_Byte___
+  commentId: M:OpenCollar.Extensions.IO.Crc32.GetCrc(System.Byte[])
+  name.vb: GetCrc(Byte())
+  fullName: OpenCollar.Extensions.IO.Crc32.GetCrc(System.Byte[])
+  fullName.vb: OpenCollar.Extensions.IO.Crc32.GetCrc(System.Byte())
+  nameWithType: Crc32.GetCrc(Byte[])
+  nameWithType.vb: Crc32.GetCrc(Byte())
+- uid: OpenCollar.Extensions.IO.Crc32.GetCrc(System.IO.Stream,System.Int32)
+  name: GetCrc(Stream, Int32)
+  href: api/OpenCollar.Extensions.IO.Crc32.html#OpenCollar_Extensions_IO_Crc32_GetCrc_System_IO_Stream_System_Int32_
+  commentId: M:OpenCollar.Extensions.IO.Crc32.GetCrc(System.IO.Stream,System.Int32)
+  fullName: OpenCollar.Extensions.IO.Crc32.GetCrc(System.IO.Stream, System.Int32)
+  nameWithType: Crc32.GetCrc(Stream, Int32)
+- uid: OpenCollar.Extensions.IO.Crc32.GetCrc*
+  name: GetCrc
+  href: api/OpenCollar.Extensions.IO.Crc32.html#OpenCollar_Extensions_IO_Crc32_GetCrc_
+  commentId: Overload:OpenCollar.Extensions.IO.Crc32.GetCrc
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.Crc32.GetCrc
+  nameWithType: Crc32.GetCrc
+- uid: OpenCollar.Extensions.IO.StreamExtensions
+  name: StreamExtensions
+  href: api/OpenCollar.Extensions.IO.StreamExtensions.html
+  commentId: T:OpenCollar.Extensions.IO.StreamExtensions
+  fullName: OpenCollar.Extensions.IO.StreamExtensions
+  nameWithType: StreamExtensions
+- uid: OpenCollar.Extensions.IO.StreamExtensions.ReadAll(System.IO.Stream)
+  name: ReadAll(Stream)
+  href: api/OpenCollar.Extensions.IO.StreamExtensions.html#OpenCollar_Extensions_IO_StreamExtensions_ReadAll_System_IO_Stream_
+  commentId: M:OpenCollar.Extensions.IO.StreamExtensions.ReadAll(System.IO.Stream)
+  fullName: OpenCollar.Extensions.IO.StreamExtensions.ReadAll(System.IO.Stream)
+  nameWithType: StreamExtensions.ReadAll(Stream)
+- uid: OpenCollar.Extensions.IO.StreamExtensions.ReadAll*
+  name: ReadAll
+  href: api/OpenCollar.Extensions.IO.StreamExtensions.html#OpenCollar_Extensions_IO_StreamExtensions_ReadAll_
+  commentId: Overload:OpenCollar.Extensions.IO.StreamExtensions.ReadAll
+  isSpec: "True"
+  fullName: OpenCollar.Extensions.IO.StreamExtensions.ReadAll
+  nameWithType: StreamExtensions.ReadAll
