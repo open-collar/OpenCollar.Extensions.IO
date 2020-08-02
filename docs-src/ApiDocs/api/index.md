@@ -1,6 +1,6 @@
 # OpenCollar.Extensions.IO
 
-Support for automatic validation, update and strongly-typed access to configuration.
+Tools and extensions for the IO namespace.
 
 ## NuGet Package Installation
 
